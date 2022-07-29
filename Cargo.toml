@@ -1,0 +1,10 @@
+[package]
+name = "defender"
+version = "0.1.0"
+authors = [ "Andras Pinter <andras@pinter.io>" ]
+readme = "README.md"
+license = "MIT"
+repository = "https://github.com/andras-pinter/defender"
+edition = "2021"
+
+[dependencies]
