@@ -7,4 +7,5 @@ license = "MIT"
 repository = "https://github.com/andras-pinter/defender"
 edition = "2021"
 
-[dependencies]
+[dependencies.thiserror]
+version = "1.0"
